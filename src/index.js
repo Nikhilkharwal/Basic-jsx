@@ -19,7 +19,7 @@ ReactDOM.render(
 <img  src="https://picsum.photos/seed/picsum/200/300" alt="loading" />
  </div>
  <>
- <p className="heading">Every time you refresh the page new pohots appear</p>
+ <p className="heading">Every time you refresh the page new photos appear</p>
 </>
   </>,
   document.getElementById('root')
